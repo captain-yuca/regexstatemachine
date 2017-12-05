@@ -29,7 +29,7 @@ This program does not contain validation. Any incorrect regular expressions will
 ### Valid Tokens
 + (
 + )
-+ *
++ asterisk
 + |
 + alphanumeric color_values
 
